@@ -16,7 +16,7 @@ int conver2Decimal(string num)
 
 int main()
 {
-    string num = "111";
+    string num = "11";
 
     int res = conver2Decimal(num);
     cout << "Decimal of " << num << " " << res << "\n";

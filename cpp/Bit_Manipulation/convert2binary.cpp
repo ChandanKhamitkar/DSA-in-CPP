@@ -21,7 +21,7 @@ string conver2Binary(int num)
 
 int main()
 {
-    int num = 13;
+    int num = 0;
 
     string res = conver2Binary(num);
     cout << "Binary of " << num << " " << res << "\n";
